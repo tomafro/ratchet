@@ -1,0 +1,4 @@
+* Create a web interface
+* Add OpenAuth support for twitter/etc to prevent usernames/passwords being stored in the DB
+* Add some specs!
+* Handle error conditions when fetching the feeds
